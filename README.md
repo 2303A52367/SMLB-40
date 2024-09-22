@@ -1,3 +1,4 @@
+WEEK-8:  https://github.com/2303A52367/SMLB-40/blob/main/Assignment_8.ipynb                      
 WEEK-7:  https://github.com/2303A52367/SMLB-40/blob/main/Assignment_7.ipynb                 
 WEEK-6:  https://github.com/2303A52367/SMLB-40/blob/main/Assignment_6.ipynb                     
 WEEK-5:  https://github.com/2303A52367/SMLB-40/blob/main/Assignment_5.ipynb               
